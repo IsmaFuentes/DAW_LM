@@ -1,0 +1,125 @@
+/*BRACSA - SPORT*/
+
+.footer {padding:50px 0 50px;margin-top:100px;color:#99979c;text-align:left;background-color:#2a2730;}
+.footer-links{padding-left:0;margin-bottom:20px;}
+.footer-links li{display:inline-block;}
+
+#cabecera {background-color: #ffff66; margin-bottom: 0px;}
+
+#barra {
+	border-radius: 0px;
+	margin-bottom: 10px;
+}
+
+#tlf {
+    top: 30px;
+    display: inline-block;
+    position: relative;
+    margin-left: 10px;
+    width: 25%;
+    margin-top: 20px;
+}
+
+#tlf2 {
+    top: 30px;
+    display: inline-block;
+    position: relative;
+    width: 25%;
+    margin-top: 20px;
+}
+
+body {
+    background-image: url(../img/fondo2.jpg);
+    /*background-repeat: no-repeat;*/
+    /*background-position: center;*/
+    background-size: 120%;
+    background-attachment: fixed;
+}
+
+.footer {
+    float: left;
+    margin-top: 100px;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/***********Apartado Noticias****************/
+
+#icons {
+    margin-top: 10px;
+    width: 150px;
+}
+
+#modelosnews1 {
+    position: relative;
+    top: 25px;
+}
+
+.contentnews {
+    display: none;
+}
+
+#tituloder {
+    margin-left:15px;
+}
+
+#tituloizq {
+    margin-right: 15px;
+}
+
+#imagen{
+    border: 1px solid #b8b894;
+    box-shadow: 5px 5px 5px grey;
+    padding: 5px 5px 5px 5px;
+    margin:10px;
+}
+
+#imagen2 {
+    padding: 5px 5px 5px 5px;
+    margin:10px;
+}
+
+#textoizq {
+    margin:10px;
+
+}
+
+#textocentro {
+    margin:10px; 
+}
+
+#imagen2{
+    display: none;
+}
+
+.thumbnail {
+    opacity: 0.8;
+    filter: alpha(opacity=50);
+    font-style: oblique;
+}
+
+#footerimg {
+    float: right;
+    width: 80px;
+}
+
+/*Publicidad superior*/
+#publitlf {
+    margin-top:70px;
+    margin-bottom: -5px;
+    display: block;
+}
+iframe {
+    border-style: none;
+}
+
+#advertphone {
+    width: 320px;
+    height: 100px;
+}
+
+.blue{
+    background-color: #e6f2ff;
+}

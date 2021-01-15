@@ -1,0 +1,60 @@
+/*PAGINA INICIAL*/
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    opacity: 0.5;
+    filter: alpha(opacity=25);
+}
+
+.content {
+    top: 10%;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    text-align: center;
+}
+
+/*.boton {
+    text-align: center; 
+    line-height: 55px;
+    margin: auto;
+    border: 1px solid #ffff33;
+    border-radius: 10px;
+    width: 18%;
+    height: 10%;
+    text-decoration:none;
+    outline: none;
+}*/
+
+body {
+    background-image: url(../img/metal.jpg);
+    background-size: 100%;
+}
+
+#boton1:hover { 
+    background-color: #ffff4d;
+    border: 1px solid #000000;
+    color: #000000;
+}
+
+#boton1 {
+    background-color: transparent;
+    border: 1px solid #ffff33;
+    border-radius: 10px;
+    color: #ffff33;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width: 18%;
+    height: 10%;
+    outline: none;
+}
+
+#titulo {
+    color: #ffffff;
+}

@@ -1,0 +1,70 @@
+{
+	"films":[
+		{
+			"Id": 0,
+			"Name": "Venom",
+			"Duration": 110,
+			"Image":"venom.jpg",
+			"Genre":[
+				"Action",
+				"Comedy",
+				"Superhero"				
+			]		
+		},
+		{
+			"Id": 1,
+			"Name": "Deadpool 2",
+			"Duration": 120,
+			"Image":"deadpool.jpg",
+			"Genre":[
+				"Action",
+				"Comedy",
+				"Superhero"				
+			]		
+		},
+		{
+			"Id": 2,
+			"Name": "Capitan America",
+			"Duration": 125,
+			"Image":"camerica.jpg",
+			"Genre":[
+				"Action",
+				"Comedy",
+				"Superhero"				
+			]		
+		},
+		{
+			"Id": 3,
+			"Name": "Spiderman",
+			"Duration": 105,
+			"Image":"spiderman.jpg",
+			"Genre":[
+				"Action",
+				"Comedy",
+				"Superhero"				
+			]		
+		},
+		{
+			"Id": 4,
+			"Name": "La comunidad del anillo",
+			"Duration": 180,
+			"Image":"señoranillos.jpg",
+			"Genre":[
+				"Action",
+				"Comedy",
+				"Superhero"				
+			]		
+		},
+		{
+			"Id": 5,
+			"Name": "Las dos torres",
+			"Duration": 185,
+			"Image":"lasdostorres.jpg",
+			"Genre":[
+				"Action",
+				"Comedy",
+				"Superhero"				
+			]		
+		}
+	]
+}
